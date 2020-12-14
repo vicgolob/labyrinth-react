@@ -1,0 +1,683 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component renders learn react link 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        style="display: flex;"
+      >
+        <div
+          style="display: flex; flex-direction: column;"
+        >
+          <div
+            style="display: inline-flex;"
+          >
+            <p
+              style="margin-right: 1em;"
+            >
+              Choose grid size
+            </p>
+            <input
+              max="15"
+              min="4"
+              step="1"
+              type="number"
+              value="4"
+            />
+          </div>
+          <div
+            style="display: inline-flex;"
+          >
+            <p
+              style="margin-right: 1em;"
+            >
+              Pick to set start position
+            </p>
+            <div
+              style="height: 18px; width: 18px; border-radius: 50%; border: 2px solid black; background-color: rgb(63, 240, 63);"
+            />
+          </div>
+          <div
+            style="display: inline-flex;"
+          >
+            <p
+              style="margin-right: 1em;"
+            >
+              Pick to set end position
+            </p>
+            <div
+              style="height: 18px; width: 18px; border-radius: 50%; border: 2px solid black; background-color: rgb(240, 48, 48);"
+            />
+          </div>
+          <div
+            style="display: flex; flex-direction: column;"
+          >
+            <p
+              style="margin-right: 1em;"
+            >
+              Click the button below to start
+            </p>
+            <button>
+              PLAY ;)
+            </button>
+          </div>
+        </div>
+        <table
+          cellspacing="0"
+          style="padding: 20px;"
+        >
+          <tbody>
+            <tr>
+              <td
+                id="0"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="1"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="2"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="3"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+            </tr>
+            <tr>
+              <td
+                id="4"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="5"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="6"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="7"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+            </tr>
+            <tr>
+              <td
+                id="8"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="9"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="10"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="11"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+            </tr>
+            <tr>
+              <td
+                id="12"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="13"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="14"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="15"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      style="display: flex;"
+    >
+      <div
+        style="display: flex; flex-direction: column;"
+      >
+        <div
+          style="display: inline-flex;"
+        >
+          <p
+            style="margin-right: 1em;"
+          >
+            Choose grid size
+          </p>
+          <input
+            max="15"
+            min="4"
+            step="1"
+            type="number"
+            value="4"
+          />
+        </div>
+        <div
+          style="display: inline-flex;"
+        >
+          <p
+            style="margin-right: 1em;"
+          >
+            Pick to set start position
+          </p>
+          <div
+            style="height: 18px; width: 18px; border-radius: 50%; border: 2px solid black; background-color: rgb(63, 240, 63);"
+          />
+        </div>
+        <div
+          style="display: inline-flex;"
+        >
+          <p
+            style="margin-right: 1em;"
+          >
+            Pick to set end position
+          </p>
+          <div
+            style="height: 18px; width: 18px; border-radius: 50%; border: 2px solid black; background-color: rgb(240, 48, 48);"
+          />
+        </div>
+        <div
+          style="display: flex; flex-direction: column;"
+        >
+          <p
+            style="margin-right: 1em;"
+          >
+            Click the button below to start
+          </p>
+          <button>
+            PLAY ;)
+          </button>
+        </div>
+      </div>
+      <table
+        cellspacing="0"
+        style="padding: 20px;"
+      >
+        <tbody>
+          <tr>
+            <td
+              id="0"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="1"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="2"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="3"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+          </tr>
+          <tr>
+            <td
+              id="4"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="5"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="6"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="7"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+          </tr>
+          <tr>
+            <td
+              id="8"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="9"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="10"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="11"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+          </tr>
+          <tr>
+            <td
+              id="12"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="13"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="14"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="15"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`App Component should render the MazeEditor component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        style="display: flex;"
+      >
+        <div
+          style="display: flex; flex-direction: column;"
+        >
+          <div
+            style="display: inline-flex;"
+          >
+            <p
+              style="margin-right: 1em;"
+            >
+              Choose grid size
+            </p>
+            <input
+              max="15"
+              min="4"
+              step="1"
+              type="number"
+              value="4"
+            />
+          </div>
+          <div
+            style="display: inline-flex;"
+          >
+            <p
+              style="margin-right: 1em;"
+            >
+              Pick to set start position
+            </p>
+            <div
+              style="height: 18px; width: 18px; border-radius: 50%; border: 2px solid black; background-color: rgb(63, 240, 63);"
+            />
+          </div>
+          <div
+            style="display: inline-flex;"
+          >
+            <p
+              style="margin-right: 1em;"
+            >
+              Pick to set end position
+            </p>
+            <div
+              style="height: 18px; width: 18px; border-radius: 50%; border: 2px solid black; background-color: rgb(240, 48, 48);"
+            />
+          </div>
+          <div
+            style="display: flex; flex-direction: column;"
+          >
+            <p
+              style="margin-right: 1em;"
+            >
+              Click the button below to start
+            </p>
+            <button>
+              PLAY ;)
+            </button>
+          </div>
+        </div>
+        <table
+          cellspacing="0"
+          style="padding: 20px;"
+        >
+          <tbody>
+            <tr>
+              <td
+                id="0"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="1"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="2"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="3"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+            </tr>
+            <tr>
+              <td
+                id="4"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="5"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="6"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="7"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+            </tr>
+            <tr>
+              <td
+                id="8"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="9"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="10"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="11"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+            </tr>
+            <tr>
+              <td
+                id="12"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="13"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="14"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+              <td
+                id="15"
+                style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+              />
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      style="display: flex;"
+    >
+      <div
+        style="display: flex; flex-direction: column;"
+      >
+        <div
+          style="display: inline-flex;"
+        >
+          <p
+            style="margin-right: 1em;"
+          >
+            Choose grid size
+          </p>
+          <input
+            max="15"
+            min="4"
+            step="1"
+            type="number"
+            value="4"
+          />
+        </div>
+        <div
+          style="display: inline-flex;"
+        >
+          <p
+            style="margin-right: 1em;"
+          >
+            Pick to set start position
+          </p>
+          <div
+            style="height: 18px; width: 18px; border-radius: 50%; border: 2px solid black; background-color: rgb(63, 240, 63);"
+          />
+        </div>
+        <div
+          style="display: inline-flex;"
+        >
+          <p
+            style="margin-right: 1em;"
+          >
+            Pick to set end position
+          </p>
+          <div
+            style="height: 18px; width: 18px; border-radius: 50%; border: 2px solid black; background-color: rgb(240, 48, 48);"
+          />
+        </div>
+        <div
+          style="display: flex; flex-direction: column;"
+        >
+          <p
+            style="margin-right: 1em;"
+          >
+            Click the button below to start
+          </p>
+          <button>
+            PLAY ;)
+          </button>
+        </div>
+      </div>
+      <table
+        cellspacing="0"
+        style="padding: 20px;"
+      >
+        <tbody>
+          <tr>
+            <td
+              id="0"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="1"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="2"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="3"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+          </tr>
+          <tr>
+            <td
+              id="4"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="5"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="6"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="7"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+          </tr>
+          <tr>
+            <td
+              id="8"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="9"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="10"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="11"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+          </tr>
+          <tr>
+            <td
+              id="12"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="13"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="14"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+            <td
+              id="15"
+              style="height: 22px; width: 22px; background-color: rgb(244, 243, 243); border: .3px solid #959595;"
+            />
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
